@@ -1,0 +1,10 @@
+[2024-09-18 09:39:32,090] 21 root - INFO - Entered Data Ingestion Method
+[2024-09-18 09:39:32,100] 24 root - INFO - Read the data as df
+[2024-09-18 09:39:32,110] 28 root - INFO - Train Test split has been initiated
+[2024-09-18 09:39:32,122] 32 root - INFO - Train Test files has been saved
+[2024-09-18 09:39:32,126] 57 root - INFO - Read train and test data completed.
+[2024-09-18 09:39:32,126] 58 root - INFO - Obtaining preprocessing object.
+[2024-09-18 09:39:32,128] 68 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[2024-09-18 09:39:32,148] 84 root - INFO - Pickle has been generated and saved.
+[2024-09-18 09:39:32,148] 35 root - INFO - Split features and target from tarin and test
+[2024-09-18 09:40:43,955] 102 root - INFO - Best found model on both training and testing dataset.

@@ -1,0 +1,4 @@
+[2024-09-17 23:20:01,040] 21 root - INFO - Entered Data Ingestion Method
+[2024-09-17 23:20:01,045] 24 root - INFO - Read the data as df
+[2024-09-17 23:20:01,051] 28 root - INFO - Train Test split has been initiated
+[2024-09-17 23:20:01,057] 32 root - INFO - Train Test files has been saved

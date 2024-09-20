@@ -1,0 +1,8 @@
+[2024-09-17 23:54:58,921] 21 root - INFO - Entered Data Ingestion Method
+[2024-09-17 23:54:58,925] 24 root - INFO - Read the data as df
+[2024-09-17 23:54:58,929] 28 root - INFO - Train Test split has been initiated
+[2024-09-17 23:54:58,934] 32 root - INFO - Train Test files has been saved
+[2024-09-17 23:54:58,937] 57 root - INFO - Read train and test data completed
+[2024-09-17 23:54:58,937] 58 root - INFO - Obtaining preprocessing object
+[2024-09-17 23:54:58,938] 68 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[2024-09-17 23:54:58,950] 84 root - INFO - Pickle has been generated and saved

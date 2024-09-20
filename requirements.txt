@@ -1,0 +1,10 @@
+pandas
+MarkupSafe
+numpy
+seaborn
+scikit-learn
+dill
+catboost
+xgboost
+Flask
+-e .
